@@ -6,3 +6,5 @@
 ## activate conda environment
 ## source activate ./env
 
+## install requirement
+## pip install -r requirements.txt
