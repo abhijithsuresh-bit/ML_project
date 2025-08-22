@@ -1,0 +1,7 @@
+README
+setup.py
+Mentall_Illness.egg-info/PKG-INFO
+Mentall_Illness.egg-info/SOURCES.txt
+Mentall_Illness.egg-info/dependency_links.txt
+Mentall_Illness.egg-info/requires.txt
+Mentall_Illness.egg-info/top_level.txt
